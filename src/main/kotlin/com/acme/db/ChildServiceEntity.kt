@@ -1,4 +1,4 @@
-package com.quera.qcs.com.acme.db
+package com.acme.db
 
 import com.acme.common.db.BaseEntity
 import jakarta.persistence.Entity
